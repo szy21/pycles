@@ -1,0 +1,775 @@
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+    main()
+  File "main.py", line 13, in main
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    main()
+    main()
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "main.py", line 13, in main
+  File "main.py", line 13, in main
+    main()
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    namelist = json.loads(file_namelist)
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    main()
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+  File "main.py", line 13, in main
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    namelist = json.loads(file_namelist)
+    main()
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+  File "main.py", line 13, in main
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "main.py", line 13, in main
+    main()
+    main()
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "main.py", line 13, in main
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "main.py", line 13, in main
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    namelist = json.loads(file_namelist)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    namelist = json.loads(file_namelist)
+    main()
+    main()
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    main()
+  File "main.py", line 13, in main
+    main()
+    namelist = json.loads(file_namelist)
+  File "main.py", line 13, in main
+  File "main.py", line 13, in main
+    main()
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    namelist = json.loads(file_namelist)
+    main()
+    main()
+    main()
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+  File "main.py", line 13, in main
+  File "main.py", line 13, in main
+  File "main.py", line 13, in main
+    main()
+    namelist = json.loads(file_namelist)
+  File "main.py", line 13, in main
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+    main()
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.scan_once(s, idx)
+  File "main.py", line 13, in main
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    namelist = json.loads(file_namelist)
+  File "main.py", line 13, in main
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    namelist = json.loads(file_namelist)
+  File "main.py", line 13, in main
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+    namelist = json.loads(file_namelist)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    namelist = json.loads(file_namelist)
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    namelist = json.loads(file_namelist)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    obj, end = self.scan_once(s, idx)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.scan_once(s, idx)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+  File "main.py", line 13, in main
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    return _default_decoder.decode(s)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+    main()
+  File "main.py", line 13, in main
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    main()
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+  File "main.py", line 13, in main
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    main()
+    return _default_decoder.decode(s)
+  File "main.py", line 13, in main
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    return _default_decoder.decode(s)
+    obj, end = self.scan_once(s, idx)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "main.py", line 13, in main
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    namelist = json.loads(file_namelist)
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "main.py", line 13, in main
+    main()
+    namelist = json.loads(file_namelist)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "main.py", line 13, in main
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    main()
+  File "main.py", line 13, in main
+    main()
+  File "main.py", line 13, in main
+    main()
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    namelist = json.loads(file_namelist)
+  File "main.py", line 13, in main
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    namelist = json.loads(file_namelist)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    return _default_decoder.decode(s)
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    main()
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+  File "main.py", line 13, in main
+    obj, end = self.scan_once(s, idx)
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+    main()
+  File "main.py", line 13, in main
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+    namelist = json.loads(file_namelist)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    main()
+  File "main.py", line 13, in main
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    main()
+  File "main.py", line 13, in main
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "main.py", line 13, in main
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+  File "main.py", line 13, in main
+    main()
+    namelist = json.loads(file_namelist)
+  File "main.py", line 13, in main
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    namelist = json.loads(file_namelist)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.scan_once(s, idx)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+    main()
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+    main()
+  File "main.py", line 13, in main
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+  File "main.py", line 13, in main
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+  File "main.py", line 13, in main
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+    main()
+  File "main.py", line 13, in main
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+    obj, end = self.scan_once(s, idx)
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    main()
+  File "main.py", line 13, in main
+    namelist = json.loads(file_namelist)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 84 column 9 (char 1726)
+srun: error: hpc-93-16: tasks 43-45: Exited with exit code 1
+srun: error: hpc-93-14: tasks 9-11: Exited with exit code 1
+srun: error: hpc-93-17: tasks 46-48: Exited with exit code 1
+srun: error: hpc-93-13: tasks 6-8: Exited with exit code 1
+srun: error: hpc-93-18: tasks 49-63: Exited with exit code 1
+srun: error: hpc-93-15: tasks 12-42: Exited with exit code 1
+srun: error: hpc-93-12: tasks 0-5: Exited with exit code 1

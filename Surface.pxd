@@ -58,6 +58,7 @@ cdef class SurfaceSullivanPatton(SurfaceBase):
 cdef class SurfaceBomex(SurfaceBase):
     cdef:
         double theta_flux
+        double qt_flux_ano
         double ustar_
         double theta_surface
         double qt_surface

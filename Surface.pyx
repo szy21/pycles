@@ -49,7 +49,7 @@ def SurfaceFactory(namelist, LatentHeat LH, ParallelMPI.ParallelMPI Par):
         if casename == 'SullivanPatton':
            return SurfaceSullivanPatton(LH)
         elif casename == 'Bomex':
-            return SurfaceBomex(LH)
+            return SurfaceBomex(namelist, LH)
         elif casename == 'Gabls':
             return SurfaceGabls(namelist,LH)
         elif casename == 'DYCOMS_RF01':
@@ -295,17 +295,24 @@ cdef class SurfaceSullivanPatton(SurfaceBase):
 
 
 cdef class SurfaceBomex(SurfaceBase):
-    def __init__(self,  LatentHeat LH):
+    def __init__(self, namelist, LatentHeat LH):
         self.L_fp = LH.L_fp
         self.Lambda_fp = LH.Lambda_fp
         self.dry_case = False
+        try:
+            self.theta_flux = namelist['surface']['theta_flux']
+        except:
+            self.theta_flux = 8.0e-3 # K m/s
+        try:
+            self.qt_flux_ano = namelist['surface']['qt_flux']
+        except:
+            self.qt_flux_ano = 5.2e-5
         return
 
     cpdef initialize(self, Grid.Grid Gr, ReferenceState.ReferenceState Ref, NetCDFIO_Stats NS, ParallelMPI.ParallelMPI Pa):
         SurfaceBase.initialize(self,Gr,Ref,NS,Pa)
-        self.qt_flux = np.add(self.qt_flux,5.2e-5) # m/s
+        self.qt_flux = np.add(self.qt_flux,self. qt_flux_ano) # kg/kg m/s
 
-        self.theta_flux = 8.0e-3 # K m/s
         self.ustar_ = 0.28 #m/s
         self.theta_surface = 299.1 #K
         self.qt_surface = 22.45e-3 # kg/kg

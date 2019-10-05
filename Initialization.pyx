@@ -1483,7 +1483,7 @@ def InitCGILS(namelist, Grid.Grid Gr,PrognosticVariables.PrognosticVariables PV,
     # Now do the interpolation
     for k in xrange(Gr.dims.nlg[2]):
             if RS.p0_half[k] <= p_interp_les:
-
+                # 101618[ZS]: masked arrays are not supported in pchip_interpolate, change back to linear interpolation
                 # thetal_right = thetal_interp[-1] + (thetal_interp[-2] - thetal_interp[-1])/(pressure_interp[-2]-pressure_interp[-1]) \
                 #                                  * ( RS.p0_half[k]-pressure_interp[-1])
                 # qt_right = qt_interp[-1] + (qt_interp[-2] - qt_interp[-1])/(pressure_interp[-2]-pressure_interp[-1]) \

@@ -11,6 +11,7 @@ Csrc/parameters_micro.h
 *.idea
 *.in
 build/
+run/
 *.txt
 figs/
 _static/
