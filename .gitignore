@@ -5,7 +5,9 @@
 *.o
 *.c
 parameters.pxi
+parameters_micro.pxi
 Csrc/parameters.h
+Csrc/parameters_micro.h
 *.idea
 *.in
 build/
@@ -16,3 +18,4 @@ _templates/
 *.png
 *.mod
 *.Restar*
+run/
