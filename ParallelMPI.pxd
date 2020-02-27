@@ -21,8 +21,6 @@ cdef class ParallelMPI:
         int sub_y_rank
         int sub_z_rank
 
-        void barrier(self)
-
         void create_sub_communicators(self)
 
         double domain_scalar_sum(self, double local_value)
@@ -38,6 +36,7 @@ cdef class ParallelMPI:
         double [:] HorizontalMeanConditional(self,Grid.Grid Gr, double* values, double* mask)
         double [:] HorizontalMeanofSquaresConditional(self,Grid.Grid Gr, double* values1, double* values2, double* mask)
 
+    cpdef void barrier(self)
     cpdef root_print(self, txt_output)
     cpdef kill(self)
 
