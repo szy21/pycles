@@ -16,4 +16,4 @@ cdef class Restart:
     cpdef write(self, ParallelMPI.ParallelMPI Pa)
     cpdef read(self, ParallelMPI.ParallelMPI Pa)
     cpdef free_memory(self)
-    cpdef cleanup(self)
+    cpdef cleanup(self, ParallelMPI.ParallelMPI Pa)

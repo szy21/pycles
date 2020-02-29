@@ -184,7 +184,7 @@ class Simulation3d:
                                ' cfl_max = ' + str(self.TS.cfl_max) + ' walltime = ' + str(time2 - time1))
 
         self.Pa.barrier()
-        self.Restart.cleanup()
+        self.Restart.cleanup(self.Pa)
 
 
         return
