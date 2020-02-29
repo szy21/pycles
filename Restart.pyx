@@ -163,23 +163,24 @@ cdef class Restart:
 
         return
 
-    cpdef cleanup(self):
+    cpdef cleanup(self, ParallelMPI.ParallelMPI Pa):
 
-        path = self.restart_path
-        originals = glob.glob(path+'/*_original')
+        if Pa.rank == 0:
+            path = self.restart_path
+            originals = glob.glob(path+'/*_original')
 
-        for original in originals:
-            prefix = original[:-9]
-            os.rename(original, prefix)
-        recents = glob.glob(path +'/*_recent')
+            for original in originals:
+                prefix = original[:-9]
+                os.rename(original, prefix)
+            recents = glob.glob(path +'/*_recent')
 
-        for recent in recents:
-            prefix = recent[:-7]
-            os.rename(recent, prefix)
-        new_dirs = glob.glob(path +'/*_new')
-
-        for new_dir in new_dirs:
-            prefix = new_dir[:-4]
-            os.rename(new_dir, prefix)
+            for recent in recents:
+                prefix = recent[:-7]
+                os.rename(recent, prefix)
+            new_dirs = glob.glob(path +'/*_new')
+    
+            for new_dir in new_dirs:
+                prefix = new_dir[:-4]
+                os.rename(new_dir, prefix)
         return
 
