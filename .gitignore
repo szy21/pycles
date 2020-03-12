@@ -13,6 +13,7 @@ Csrc/parameters_micro.h
 *.out
 *.sh
 build/
+input/
 run/
 *.txt
 figs/
